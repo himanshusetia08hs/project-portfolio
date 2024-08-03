@@ -119,7 +119,7 @@ export const workData = [
         title: "E-Commerce Website",
         desc: "Through e-commerce business can process orders, accept payments, manage shipping and logistics, and provide customer service.",
         img: "assets/tech/work-ecommerce-web.png",
-        link: "#portfolio",
+        link: "https://github.com/himanshusetia08hs/project-e-commerce",
     },
     {
         id: "2",
@@ -127,7 +127,7 @@ export const workData = [
         title: "Portfolio Web Project",
         desc: "Compilation of academic and professional materials that exemplifies our beliefs, skills, qualifications, education, training, and experiences",
         img: "assets/tech/work-portfolio-web.png",
-        link: "#portfolio",
+        link: "https://github.com/himanshusetia08hs/project-portfolio",
     },
     {
         id: "3",
